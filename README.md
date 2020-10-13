@@ -6,7 +6,7 @@ Realization of several practical exercises in javascript
 
 ### [](https://github.com/Nizi95/Evaluation-JS.git)Starting
 
--   git clone  [https://github.com/DRF-dev/Demo](https://github.com/Nizi95/Evaluation-JS.git)
+-   git clone  [https://github.com/Nizi95/Evaluation-JS.git](https://github.com/Nizi95/Evaluation-JS.git)
 -   open in the browser
 
 ### [](https://github.com/Nizi95/Evaluation-JS.git#structure)Structure
