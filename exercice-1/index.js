@@ -7,7 +7,7 @@
 var gridGenerator = function gridGenerator(xAxis, yAxis){
     this.xAxis = xAxis;
     this.yAxis = yAxis;
-}
+} 
 
 gridGenerator.prototype.renderTable = function(){
     var body = document.querySelector('body');
